@@ -65,6 +65,6 @@ def find(filename, threshhold):
 
 
 
-    print(sorted(results.items(), key =lambda kv:(kv[1], kv[0])))
-    print(time.time() - start)
+    return sorted(results.items(), key =lambda kv:(kv[1], kv[0]))
+##    print(time.time() - start)
 
