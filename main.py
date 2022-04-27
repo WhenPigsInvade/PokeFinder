@@ -48,7 +48,11 @@ async def on_message(message):
             for poke in zip([1, 2, 3], results):
                 txt = txt + str(poke)
 
-            await message.reply(str)
+            print(txt)
+            if txt == "":
+                await message.reply('woops, nothing found')
+            else:
+                await message.reply(txt)
 
     if message.author.id == 851869159121616960:
 
