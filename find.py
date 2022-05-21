@@ -68,3 +68,5 @@ def find(filename, threshhold):
     return sorted(results.items(), key =lambda kv:(kv[1], kv[0]))
 ##    print(time.time() - start)
 
+if __name__ == "__main__":
+    print(find('pokemon.jpg', 0.97))
