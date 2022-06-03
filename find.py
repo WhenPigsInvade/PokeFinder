@@ -10,7 +10,6 @@ def find(filename, threshhold):
     img = cv2.imread(filename)
     img = cv2.resize(img, (0,0), fx=0.20, fy=0.20)
 
-    start = time.time()
 
     path_of_the_directory= 'Pictures'
     for filename in os.listdir(path_of_the_directory):
@@ -66,7 +65,8 @@ def find(filename, threshhold):
 
 
     return sorted(results.items(), key =lambda kv:(kv[1], kv[0]))
-##    print(time.time() - start)
 
 if __name__ == "__main__":
+    start = time.time()
     print(find('pokemon.jpg', 0.97))
+    print(f"Operation finished in: {time.time()} - {start}")
