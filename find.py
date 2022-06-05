@@ -69,4 +69,4 @@ def find(filename, threshhold):
 if __name__ == "__main__":
     start = time.time()
     print(find('pokemon.jpg', 0.97))
-    print(f"Operation finished in: {time.time()} - {start}")
+    print(f"Operation finished in: {time.time() - start}")
