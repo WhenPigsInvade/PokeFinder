@@ -10,7 +10,7 @@ Pokemon finder to be used with conjuction with Poketwo.
 ## Introduction
 PokePoacher will find Pokemons inside the Poketwo minigame. 
 
-![alt text](https://imgur.com/a/9dDMpdm)
+![PokePoacher in action](https://github.com/WhenPigsInvade/PokePoacher/blob/main/image.jpg?raw=true)
 
 PokePoacher downloads the image and searches for the Pokemon inside the picture. Once it scans through all known Pokemons it will return a list of Pokemons that are possible matches. You can tweek the sensitivity with the threshold variable.
 
