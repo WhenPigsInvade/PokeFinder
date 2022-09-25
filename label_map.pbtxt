@@ -1,0 +1,3588 @@
+item { 
+	name:'Abomasnow'
+	id:1
+}
+item { 
+	name:'Abra'
+	id:2
+}
+item { 
+	name:'Absol'
+	id:3
+}
+item { 
+	name:'Accelgor'
+	id:4
+}
+item { 
+	name:'Aegislash'
+	id:5
+}
+item { 
+	name:'Aerodactyl'
+	id:6
+}
+item { 
+	name:'Aggron'
+	id:7
+}
+item { 
+	name:'Aipom'
+	id:8
+}
+item { 
+	name:'Alakazam'
+	id:9
+}
+item { 
+	name:'Alcremie'
+	id:10
+}
+item { 
+	name:'Alomomola'
+	id:11
+}
+item { 
+	name:'Altaria'
+	id:12
+}
+item { 
+	name:'Amaura'
+	id:13
+}
+item { 
+	name:'Ambipom'
+	id:14
+}
+item { 
+	name:'Amoonguss'
+	id:15
+}
+item { 
+	name:'Ampharos'
+	id:16
+}
+item { 
+	name:'Anorith'
+	id:17
+}
+item { 
+	name:'Appletun'
+	id:18
+}
+item { 
+	name:'Applin'
+	id:19
+}
+item { 
+	name:'Araquanid'
+	id:20
+}
+item { 
+	name:'Arbok'
+	id:21
+}
+item { 
+	name:'Arcanine'
+	id:22
+}
+item { 
+	name:'Arceus'
+	id:23
+}
+item { 
+	name:'Archen'
+	id:24
+}
+item { 
+	name:'Archeops'
+	id:25
+}
+item { 
+	name:'Arctovish'
+	id:26
+}
+item { 
+	name:'Arctozolt'
+	id:27
+}
+item { 
+	name:'Ariados'
+	id:28
+}
+item { 
+	name:'Armaldo'
+	id:29
+}
+item { 
+	name:'Aromatisse'
+	id:30
+}
+item { 
+	name:'Aron'
+	id:31
+}
+item { 
+	name:'Arrokuda'
+	id:32
+}
+item { 
+	name:'Articuno'
+	id:33
+}
+item { 
+	name:'Audino'
+	id:34
+}
+item { 
+	name:'Aurorus'
+	id:35
+}
+item { 
+	name:'Avalugg'
+	id:36
+}
+item { 
+	name:'Axew'
+	id:37
+}
+item { 
+	name:'Azelf'
+	id:38
+}
+item { 
+	name:'Azumarill'
+	id:39
+}
+item { 
+	name:'Azurill'
+	id:40
+}
+item { 
+	name:'Bagon'
+	id:41
+}
+item { 
+	name:'Baltoy'
+	id:42
+}
+item { 
+	name:'Banette'
+	id:43
+}
+item { 
+	name:'Barbaracle'
+	id:44
+}
+item { 
+	name:'Barboach'
+	id:45
+}
+item { 
+	name:'Barraskewda'
+	id:46
+}
+item { 
+	name:'Basculin'
+	id:47
+}
+item { 
+	name:'Bastiodon'
+	id:48
+}
+item { 
+	name:'Bayleef'
+	id:49
+}
+item { 
+	name:'Beartic'
+	id:50
+}
+item { 
+	name:'Beautifly'
+	id:51
+}
+item { 
+	name:'Beedrill'
+	id:52
+}
+item { 
+	name:'Beheeyem'
+	id:53
+}
+item { 
+	name:'Beldum'
+	id:54
+}
+item { 
+	name:'Bellossom'
+	id:55
+}
+item { 
+	name:'Bellsprout'
+	id:56
+}
+item { 
+	name:'Bergmite'
+	id:57
+}
+item { 
+	name:'Bewear'
+	id:58
+}
+item { 
+	name:'Bibarel'
+	id:59
+}
+item { 
+	name:'Bidoof'
+	id:60
+}
+item { 
+	name:'Binacle'
+	id:61
+}
+item { 
+	name:'Bisharp'
+	id:62
+}
+item { 
+	name:'Blacephalon'
+	id:63
+}
+item { 
+	name:'Blastoise'
+	id:64
+}
+item { 
+	name:'Blaziken'
+	id:65
+}
+item { 
+	name:'Blipbug'
+	id:66
+}
+item { 
+	name:'Blissey'
+	id:67
+}
+item { 
+	name:'Blitzle'
+	id:68
+}
+item { 
+	name:'Boldore'
+	id:69
+}
+item { 
+	name:'Boltund'
+	id:70
+}
+item { 
+	name:'Bonsly'
+	id:71
+}
+item { 
+	name:'Bouffalant'
+	id:72
+}
+item { 
+	name:'Bounsweet'
+	id:73
+}
+item { 
+	name:'Braixen'
+	id:74
+}
+item { 
+	name:'Braviary'
+	id:75
+}
+item { 
+	name:'Breloom'
+	id:76
+}
+item { 
+	name:'Brionne'
+	id:77
+}
+item { 
+	name:'Bronzong'
+	id:78
+}
+item { 
+	name:'Bronzor'
+	id:79
+}
+item { 
+	name:'Bruxish'
+	id:80
+}
+item { 
+	name:'Budew'
+	id:81
+}
+item { 
+	name:'Buizel'
+	id:82
+}
+item { 
+	name:'Bulbasaur'
+	id:83
+}
+item { 
+	name:'Buneary'
+	id:84
+}
+item { 
+	name:'Bunnelby'
+	id:85
+}
+item { 
+	name:'Burmy'
+	id:86
+}
+item { 
+	name:'Butterfree'
+	id:87
+}
+item { 
+	name:'Buzzwole'
+	id:88
+}
+item { 
+	name:'Cacnea'
+	id:89
+}
+item { 
+	name:'Cacturne'
+	id:90
+}
+item { 
+	name:'Calyrex'
+	id:91
+}
+item { 
+	name:'Camerupt'
+	id:92
+}
+item { 
+	name:'Carbink'
+	id:93
+}
+item { 
+	name:'Carkol'
+	id:94
+}
+item { 
+	name:'Carnivine'
+	id:95
+}
+item { 
+	name:'Carracosta'
+	id:96
+}
+item { 
+	name:'Carvanha'
+	id:97
+}
+item { 
+	name:'Cascoon'
+	id:98
+}
+item { 
+	name:'Castform'
+	id:99
+}
+item { 
+	name:'Caterpie'
+	id:100
+}
+item { 
+	name:'Celebi'
+	id:101
+}
+item { 
+	name:'Celesteela'
+	id:102
+}
+item { 
+	name:'Centiskorch'
+	id:103
+}
+item { 
+	name:'Chandelure'
+	id:104
+}
+item { 
+	name:'Chansey'
+	id:105
+}
+item { 
+	name:'Charizard'
+	id:106
+}
+item { 
+	name:'Charjabug'
+	id:107
+}
+item { 
+	name:'Charmander'
+	id:108
+}
+item { 
+	name:'Charmeleon'
+	id:109
+}
+item { 
+	name:'Chatot'
+	id:110
+}
+item { 
+	name:'Cherrim'
+	id:111
+}
+item { 
+	name:'Cherubi'
+	id:112
+}
+item { 
+	name:'Chesnaught'
+	id:113
+}
+item { 
+	name:'Chespin'
+	id:114
+}
+item { 
+	name:'Chewtle'
+	id:115
+}
+item { 
+	name:'Chikorita'
+	id:116
+}
+item { 
+	name:'Chimchar'
+	id:117
+}
+item { 
+	name:'Chimecho'
+	id:118
+}
+item { 
+	name:'Chinchou'
+	id:119
+}
+item { 
+	name:'Chingling'
+	id:120
+}
+item { 
+	name:'Cinccino'
+	id:121
+}
+item { 
+	name:'Cinderace'
+	id:122
+}
+item { 
+	name:'Clamperl'
+	id:123
+}
+item { 
+	name:'Clauncher'
+	id:124
+}
+item { 
+	name:'Clawitzer'
+	id:125
+}
+item { 
+	name:'Claydol'
+	id:126
+}
+item { 
+	name:'Clefable'
+	id:127
+}
+item { 
+	name:'Clefairy'
+	id:128
+}
+item { 
+	name:'Cleffa'
+	id:129
+}
+item { 
+	name:'Clobbopus'
+	id:130
+}
+item { 
+	name:'Cloyster'
+	id:131
+}
+item { 
+	name:'Coalossal'
+	id:132
+}
+item { 
+	name:'Cobalion'
+	id:133
+}
+item { 
+	name:'Cofagrigus'
+	id:134
+}
+item { 
+	name:'Combee'
+	id:135
+}
+item { 
+	name:'Combusken'
+	id:136
+}
+item { 
+	name:'Comfey'
+	id:137
+}
+item { 
+	name:'Conkeldurr'
+	id:138
+}
+item { 
+	name:'Copperajah'
+	id:139
+}
+item { 
+	name:'Corphish'
+	id:140
+}
+item { 
+	name:'Corsola'
+	id:141
+}
+item { 
+	name:'Corviknight'
+	id:142
+}
+item { 
+	name:'Corvisquire'
+	id:143
+}
+item { 
+	name:'Cosmoem'
+	id:144
+}
+item { 
+	name:'Cosmog'
+	id:145
+}
+item { 
+	name:'Cottonee'
+	id:146
+}
+item { 
+	name:'Crabominable'
+	id:147
+}
+item { 
+	name:'Crabrawler'
+	id:148
+}
+item { 
+	name:'Cradily'
+	id:149
+}
+item { 
+	name:'Cramorant'
+	id:150
+}
+item { 
+	name:'Cranidos'
+	id:151
+}
+item { 
+	name:'Crawdaunt'
+	id:152
+}
+item { 
+	name:'Cresselia'
+	id:153
+}
+item { 
+	name:'Croagunk'
+	id:154
+}
+item { 
+	name:'Crobat'
+	id:155
+}
+item { 
+	name:'Croconaw'
+	id:156
+}
+item { 
+	name:'Crustle'
+	id:157
+}
+item { 
+	name:'Cryogonal'
+	id:158
+}
+item { 
+	name:'Cubchoo'
+	id:159
+}
+item { 
+	name:'Cubone'
+	id:160
+}
+item { 
+	name:'Cufant'
+	id:161
+}
+item { 
+	name:'Cursola'
+	id:162
+}
+item { 
+	name:'Cutiefly'
+	id:163
+}
+item { 
+	name:'Cyndaquil'
+	id:164
+}
+item { 
+	name:'Darkrai'
+	id:165
+}
+item { 
+	name:'Darmanitan'
+	id:166
+}
+item { 
+	name:'Dartrix'
+	id:167
+}
+item { 
+	name:'Darumaka'
+	id:168
+}
+item { 
+	name:'Decidueye'
+	id:169
+}
+item { 
+	name:'Dedenne'
+	id:170
+}
+item { 
+	name:'Deerling'
+	id:171
+}
+item { 
+	name:'Deino'
+	id:172
+}
+item { 
+	name:'Delcatty'
+	id:173
+}
+item { 
+	name:'Delibird'
+	id:174
+}
+item { 
+	name:'Delphox'
+	id:175
+}
+item { 
+	name:'Deoxys'
+	id:176
+}
+item { 
+	name:'Dewgong'
+	id:177
+}
+item { 
+	name:'Dewott'
+	id:178
+}
+item { 
+	name:'Dewpider'
+	id:179
+}
+item { 
+	name:'Dhelmise'
+	id:180
+}
+item { 
+	name:'Dialga'
+	id:181
+}
+item { 
+	name:'Diancie'
+	id:182
+}
+item { 
+	name:'Diggersby'
+	id:183
+}
+item { 
+	name:'Diglett'
+	id:184
+}
+item { 
+	name:'Ditto'
+	id:185
+}
+item { 
+	name:'Dodrio'
+	id:186
+}
+item { 
+	name:'Doduo'
+	id:187
+}
+item { 
+	name:'Donphan'
+	id:188
+}
+item { 
+	name:'Dottler'
+	id:189
+}
+item { 
+	name:'Doublade'
+	id:190
+}
+item { 
+	name:'Dracovish'
+	id:191
+}
+item { 
+	name:'Dracozolt'
+	id:192
+}
+item { 
+	name:'Dragalge'
+	id:193
+}
+item { 
+	name:'Dragapult'
+	id:194
+}
+item { 
+	name:'Dragonair'
+	id:195
+}
+item { 
+	name:'Dragonite'
+	id:196
+}
+item { 
+	name:'Drakloak'
+	id:197
+}
+item { 
+	name:'Drampa'
+	id:198
+}
+item { 
+	name:'Drapion'
+	id:199
+}
+item { 
+	name:'Dratini'
+	id:200
+}
+item { 
+	name:'Drednaw'
+	id:201
+}
+item { 
+	name:'Dreepy'
+	id:202
+}
+item { 
+	name:'Drifblim'
+	id:203
+}
+item { 
+	name:'Drifloon'
+	id:204
+}
+item { 
+	name:'Drilbur'
+	id:205
+}
+item { 
+	name:'Drizzile'
+	id:206
+}
+item { 
+	name:'Drowzee'
+	id:207
+}
+item { 
+	name:'Druddigon'
+	id:208
+}
+item { 
+	name:'Dubwool'
+	id:209
+}
+item { 
+	name:'Ducklett'
+	id:210
+}
+item { 
+	name:'Dugtrio'
+	id:211
+}
+item { 
+	name:'Dunsparce'
+	id:212
+}
+item { 
+	name:'Duosion'
+	id:213
+}
+item { 
+	name:'Duraludon'
+	id:214
+}
+item { 
+	name:'Durant'
+	id:215
+}
+item { 
+	name:'Dusclops'
+	id:216
+}
+item { 
+	name:'Dusknoir'
+	id:217
+}
+item { 
+	name:'Duskull'
+	id:218
+}
+item { 
+	name:'Dustox'
+	id:219
+}
+item { 
+	name:'Dwebble'
+	id:220
+}
+item { 
+	name:'Eelektrik'
+	id:221
+}
+item { 
+	name:'Eelektross'
+	id:222
+}
+item { 
+	name:'Eevee'
+	id:223
+}
+item { 
+	name:'Eiscue'
+	id:224
+}
+item { 
+	name:'Ekans'
+	id:225
+}
+item { 
+	name:'Eldegoss'
+	id:226
+}
+item { 
+	name:'Electabuzz'
+	id:227
+}
+item { 
+	name:'Electivire'
+	id:228
+}
+item { 
+	name:'Electrike'
+	id:229
+}
+item { 
+	name:'Electrode'
+	id:230
+}
+item { 
+	name:'Elekid'
+	id:231
+}
+item { 
+	name:'Elgyem'
+	id:232
+}
+item { 
+	name:'Emboar'
+	id:233
+}
+item { 
+	name:'Emolga'
+	id:234
+}
+item { 
+	name:'Empoleon'
+	id:235
+}
+item { 
+	name:'Entei'
+	id:236
+}
+item { 
+	name:'Escavalier'
+	id:237
+}
+item { 
+	name:'Espeon'
+	id:238
+}
+item { 
+	name:'Espurr'
+	id:239
+}
+item { 
+	name:'Eternatus'
+	id:240
+}
+item { 
+	name:'Excadrill'
+	id:241
+}
+item { 
+	name:'Exeggcute'
+	id:242
+}
+item { 
+	name:'Exeggutor'
+	id:243
+}
+item { 
+	name:'Exploud'
+	id:244
+}
+item { 
+	name:'Falinks'
+	id:245
+}
+item { 
+	name:'Farfetchd'
+	id:246
+}
+item { 
+	name:'Fearow'
+	id:247
+}
+item { 
+	name:'Feebas'
+	id:248
+}
+item { 
+	name:'Fennekin'
+	id:249
+}
+item { 
+	name:'Feraligatr'
+	id:250
+}
+item { 
+	name:'Ferroseed'
+	id:251
+}
+item { 
+	name:'Ferrothorn'
+	id:252
+}
+item { 
+	name:'Finneon'
+	id:253
+}
+item { 
+	name:'Flaaffy'
+	id:254
+}
+item { 
+	name:'Flabb'
+	id:255
+}
+item { 
+	name:'Flapple'
+	id:256
+}
+item { 
+	name:'Flareon'
+	id:257
+}
+item { 
+	name:'Fletchinder'
+	id:258
+}
+item { 
+	name:'Fletchling'
+	id:259
+}
+item { 
+	name:'Floatzel'
+	id:260
+}
+item { 
+	name:'Floette'
+	id:261
+}
+item { 
+	name:'Florges'
+	id:262
+}
+item { 
+	name:'Flygon'
+	id:263
+}
+item { 
+	name:'Fomantis'
+	id:264
+}
+item { 
+	name:'Foongus'
+	id:265
+}
+item { 
+	name:'Forretress'
+	id:266
+}
+item { 
+	name:'Fraxure'
+	id:267
+}
+item { 
+	name:'Frillish'
+	id:268
+}
+item { 
+	name:'Froakie'
+	id:269
+}
+item { 
+	name:'Frogadier'
+	id:270
+}
+item { 
+	name:'Froslass'
+	id:271
+}
+item { 
+	name:'Frosmoth'
+	id:272
+}
+item { 
+	name:'Furfrou'
+	id:273
+}
+item { 
+	name:'Furret'
+	id:274
+}
+item { 
+	name:'Gabite'
+	id:275
+}
+item { 
+	name:'Gallade'
+	id:276
+}
+item { 
+	name:'Galvantula'
+	id:277
+}
+item { 
+	name:'Garbodor'
+	id:278
+}
+item { 
+	name:'Garchomp'
+	id:279
+}
+item { 
+	name:'Gardevoir'
+	id:280
+}
+item { 
+	name:'Gastly'
+	id:281
+}
+item { 
+	name:'Gastrodon'
+	id:282
+}
+item { 
+	name:'Genesect'
+	id:283
+}
+item { 
+	name:'Gengar'
+	id:284
+}
+item { 
+	name:'Geodude'
+	id:285
+}
+item { 
+	name:'Gible'
+	id:286
+}
+item { 
+	name:'Gigalith'
+	id:287
+}
+item { 
+	name:'Girafarig'
+	id:288
+}
+item { 
+	name:'Giratina'
+	id:289
+}
+item { 
+	name:'Glaceon'
+	id:290
+}
+item { 
+	name:'Glalie'
+	id:291
+}
+item { 
+	name:'Glameow'
+	id:292
+}
+item { 
+	name:'Glastrier'
+	id:293
+}
+item { 
+	name:'Gligar'
+	id:294
+}
+item { 
+	name:'Gliscor'
+	id:295
+}
+item { 
+	name:'Gloom'
+	id:296
+}
+item { 
+	name:'Gogoat'
+	id:297
+}
+item { 
+	name:'Golbat'
+	id:298
+}
+item { 
+	name:'Goldeen'
+	id:299
+}
+item { 
+	name:'Golduck'
+	id:300
+}
+item { 
+	name:'Golem'
+	id:301
+}
+item { 
+	name:'Golett'
+	id:302
+}
+item { 
+	name:'Golisopod'
+	id:303
+}
+item { 
+	name:'Golurk'
+	id:304
+}
+item { 
+	name:'Goodra'
+	id:305
+}
+item { 
+	name:'Goomy'
+	id:306
+}
+item { 
+	name:'Gorebyss'
+	id:307
+}
+item { 
+	name:'Gossifleur'
+	id:308
+}
+item { 
+	name:'Gothita'
+	id:309
+}
+item { 
+	name:'Gothitelle'
+	id:310
+}
+item { 
+	name:'Gothorita'
+	id:311
+}
+item { 
+	name:'Gourgeist'
+	id:312
+}
+item { 
+	name:'Granbull'
+	id:313
+}
+item { 
+	name:'Grapploct'
+	id:314
+}
+item { 
+	name:'Graveler'
+	id:315
+}
+item { 
+	name:'Greedent'
+	id:316
+}
+item { 
+	name:'Greninja'
+	id:317
+}
+item { 
+	name:'Grimer'
+	id:318
+}
+item { 
+	name:'Grimmsnarl'
+	id:319
+}
+item { 
+	name:'Grookey'
+	id:320
+}
+item { 
+	name:'Grotle'
+	id:321
+}
+item { 
+	name:'Groudon'
+	id:322
+}
+item { 
+	name:'Grovyle'
+	id:323
+}
+item { 
+	name:'Growlithe'
+	id:324
+}
+item { 
+	name:'Grubbin'
+	id:325
+}
+item { 
+	name:'Grumpig'
+	id:326
+}
+item { 
+	name:'Gulpin'
+	id:327
+}
+item { 
+	name:'Gumshoos'
+	id:328
+}
+item { 
+	name:'Gurdurr'
+	id:329
+}
+item { 
+	name:'Guzzlord'
+	id:330
+}
+item { 
+	name:'Gyarados'
+	id:331
+}
+item { 
+	name:'Hakamoo'
+	id:332
+}
+item { 
+	name:'Happiny'
+	id:333
+}
+item { 
+	name:'Hariyama'
+	id:334
+}
+item { 
+	name:'Hatenna'
+	id:335
+}
+item { 
+	name:'Hatterene'
+	id:336
+}
+item { 
+	name:'Hattrem'
+	id:337
+}
+item { 
+	name:'Haunter'
+	id:338
+}
+item { 
+	name:'Hawlucha'
+	id:339
+}
+item { 
+	name:'Haxorus'
+	id:340
+}
+item { 
+	name:'Heatmor'
+	id:341
+}
+item { 
+	name:'Heatran'
+	id:342
+}
+item { 
+	name:'Heliolisk'
+	id:343
+}
+item { 
+	name:'Helioptile'
+	id:344
+}
+item { 
+	name:'Heracross'
+	id:345
+}
+item { 
+	name:'Herdier'
+	id:346
+}
+item { 
+	name:'Hippopotas'
+	id:347
+}
+item { 
+	name:'Hippowdon'
+	id:348
+}
+item { 
+	name:'Hitmonchan'
+	id:349
+}
+item { 
+	name:'Hitmonlee'
+	id:350
+}
+item { 
+	name:'Hitmontop'
+	id:351
+}
+item { 
+	name:'Honchkrow'
+	id:352
+}
+item { 
+	name:'Honedge'
+	id:353
+}
+item { 
+	name:'Hooh'
+	id:354
+}
+item { 
+	name:'Hoopa'
+	id:355
+}
+item { 
+	name:'Hoothoot'
+	id:356
+}
+item { 
+	name:'Hoppip'
+	id:357
+}
+item { 
+	name:'Horsea'
+	id:358
+}
+item { 
+	name:'Houndoom'
+	id:359
+}
+item { 
+	name:'Houndour'
+	id:360
+}
+item { 
+	name:'Huntail'
+	id:361
+}
+item { 
+	name:'Hydreigon'
+	id:362
+}
+item { 
+	name:'Hypno'
+	id:363
+}
+item { 
+	name:'Igglybuff'
+	id:364
+}
+item { 
+	name:'Illumise'
+	id:365
+}
+item { 
+	name:'Impidimp'
+	id:366
+}
+item { 
+	name:'Incineroar'
+	id:367
+}
+item { 
+	name:'Indeedee'
+	id:368
+}
+item { 
+	name:'Infernape'
+	id:369
+}
+item { 
+	name:'Inkay'
+	id:370
+}
+item { 
+	name:'Inteleon'
+	id:371
+}
+item { 
+	name:'Ivysaur'
+	id:372
+}
+item { 
+	name:'Jangmoo'
+	id:373
+}
+item { 
+	name:'Jellicent'
+	id:374
+}
+item { 
+	name:'Jigglypuff'
+	id:375
+}
+item { 
+	name:'Jirachi'
+	id:376
+}
+item { 
+	name:'Jolteon'
+	id:377
+}
+item { 
+	name:'Joltik'
+	id:378
+}
+item { 
+	name:'Jumpluff'
+	id:379
+}
+item { 
+	name:'Jynx'
+	id:380
+}
+item { 
+	name:'Kabuto'
+	id:381
+}
+item { 
+	name:'Kabutops'
+	id:382
+}
+item { 
+	name:'Kadabra'
+	id:383
+}
+item { 
+	name:'Kakuna'
+	id:384
+}
+item { 
+	name:'Kangaskhan'
+	id:385
+}
+item { 
+	name:'Karrablast'
+	id:386
+}
+item { 
+	name:'Kartana'
+	id:387
+}
+item { 
+	name:'Kecleon'
+	id:388
+}
+item { 
+	name:'Keldeo'
+	id:389
+}
+item { 
+	name:'Kingdra'
+	id:390
+}
+item { 
+	name:'Kingler'
+	id:391
+}
+item { 
+	name:'Kirlia'
+	id:392
+}
+item { 
+	name:'Klang'
+	id:393
+}
+item { 
+	name:'Klefki'
+	id:394
+}
+item { 
+	name:'Klink'
+	id:395
+}
+item { 
+	name:'Klinklang'
+	id:396
+}
+item { 
+	name:'Koffing'
+	id:397
+}
+item { 
+	name:'Komala'
+	id:398
+}
+item { 
+	name:'Kommoo'
+	id:399
+}
+item { 
+	name:'Krabby'
+	id:400
+}
+item { 
+	name:'Kricketot'
+	id:401
+}
+item { 
+	name:'Kricketune'
+	id:402
+}
+item { 
+	name:'Krokorok'
+	id:403
+}
+item { 
+	name:'Krookodile'
+	id:404
+}
+item { 
+	name:'Kubfu'
+	id:405
+}
+item { 
+	name:'Kyogre'
+	id:406
+}
+item { 
+	name:'Kyurem'
+	id:407
+}
+item { 
+	name:'Lairon'
+	id:408
+}
+item { 
+	name:'Lampent'
+	id:409
+}
+item { 
+	name:'Landorus'
+	id:410
+}
+item { 
+	name:'Lanturn'
+	id:411
+}
+item { 
+	name:'Lapras'
+	id:412
+}
+item { 
+	name:'Larvesta'
+	id:413
+}
+item { 
+	name:'Larvitar'
+	id:414
+}
+item { 
+	name:'Latias'
+	id:415
+}
+item { 
+	name:'Latios'
+	id:416
+}
+item { 
+	name:'Leafeon'
+	id:417
+}
+item { 
+	name:'Leavanny'
+	id:418
+}
+item { 
+	name:'Ledian'
+	id:419
+}
+item { 
+	name:'Ledyba'
+	id:420
+}
+item { 
+	name:'Lickilicky'
+	id:421
+}
+item { 
+	name:'Lickitung'
+	id:422
+}
+item { 
+	name:'Liepard'
+	id:423
+}
+item { 
+	name:'Lileep'
+	id:424
+}
+item { 
+	name:'Lilligant'
+	id:425
+}
+item { 
+	name:'Lillipup'
+	id:426
+}
+item { 
+	name:'Linoone'
+	id:427
+}
+item { 
+	name:'Litleo'
+	id:428
+}
+item { 
+	name:'Litten'
+	id:429
+}
+item { 
+	name:'Litwick'
+	id:430
+}
+item { 
+	name:'Lombre'
+	id:431
+}
+item { 
+	name:'Lopunny'
+	id:432
+}
+item { 
+	name:'Lotad'
+	id:433
+}
+item { 
+	name:'Loudred'
+	id:434
+}
+item { 
+	name:'Lucario'
+	id:435
+}
+item { 
+	name:'Ludicolo'
+	id:436
+}
+item { 
+	name:'Lugia'
+	id:437
+}
+item { 
+	name:'Lumineon'
+	id:438
+}
+item { 
+	name:'Lunala'
+	id:439
+}
+item { 
+	name:'Lunatone'
+	id:440
+}
+item { 
+	name:'Lurantis'
+	id:441
+}
+item { 
+	name:'Luvdisc'
+	id:442
+}
+item { 
+	name:'Luxio'
+	id:443
+}
+item { 
+	name:'Luxray'
+	id:444
+}
+item { 
+	name:'Lycanroc'
+	id:445
+}
+item { 
+	name:'Machamp'
+	id:446
+}
+item { 
+	name:'Machoke'
+	id:447
+}
+item { 
+	name:'Machop'
+	id:448
+}
+item { 
+	name:'Magby'
+	id:449
+}
+item { 
+	name:'Magcargo'
+	id:450
+}
+item { 
+	name:'Magearna'
+	id:451
+}
+item { 
+	name:'Magikarp'
+	id:452
+}
+item { 
+	name:'Magmar'
+	id:453
+}
+item { 
+	name:'Magmortar'
+	id:454
+}
+item { 
+	name:'Magnemite'
+	id:455
+}
+item { 
+	name:'Magneton'
+	id:456
+}
+item { 
+	name:'Magnezone'
+	id:457
+}
+item { 
+	name:'Makuhita'
+	id:458
+}
+item { 
+	name:'Malamar'
+	id:459
+}
+item { 
+	name:'Mamoswine'
+	id:460
+}
+item { 
+	name:'Manaphy'
+	id:461
+}
+item { 
+	name:'Mandibuzz'
+	id:462
+}
+item { 
+	name:'Manectric'
+	id:463
+}
+item { 
+	name:'Mankey'
+	id:464
+}
+item { 
+	name:'Mantine'
+	id:465
+}
+item { 
+	name:'Mantyke'
+	id:466
+}
+item { 
+	name:'Maractus'
+	id:467
+}
+item { 
+	name:'Mareanie'
+	id:468
+}
+item { 
+	name:'Mareep'
+	id:469
+}
+item { 
+	name:'Marill'
+	id:470
+}
+item { 
+	name:'Marowak'
+	id:471
+}
+item { 
+	name:'Marshadow'
+	id:472
+}
+item { 
+	name:'Marshtomp'
+	id:473
+}
+item { 
+	name:'Masquerain'
+	id:474
+}
+item { 
+	name:'Mawile'
+	id:475
+}
+item { 
+	name:'Medicham'
+	id:476
+}
+item { 
+	name:'Meditite'
+	id:477
+}
+item { 
+	name:'Meganium'
+	id:478
+}
+item { 
+	name:'Melmetal'
+	id:479
+}
+item { 
+	name:'Meloetta'
+	id:480
+}
+item { 
+	name:'Meltan'
+	id:481
+}
+item { 
+	name:'Meowstic'
+	id:482
+}
+item { 
+	name:'Meowth'
+	id:483
+}
+item { 
+	name:'Mesprit'
+	id:484
+}
+item { 
+	name:'Metagross'
+	id:485
+}
+item { 
+	name:'Metang'
+	id:486
+}
+item { 
+	name:'Metapod'
+	id:487
+}
+item { 
+	name:'Mew'
+	id:488
+}
+item { 
+	name:'Mewtwo'
+	id:489
+}
+item { 
+	name:'Mienfoo'
+	id:490
+}
+item { 
+	name:'Mienshao'
+	id:491
+}
+item { 
+	name:'Mightyena'
+	id:492
+}
+item { 
+	name:'Milcery'
+	id:493
+}
+item { 
+	name:'Milotic'
+	id:494
+}
+item { 
+	name:'Miltank'
+	id:495
+}
+item { 
+	name:'MimeJr'
+	id:496
+}
+item { 
+	name:'Mimikyu'
+	id:497
+}
+item { 
+	name:'Minccino'
+	id:498
+}
+item { 
+	name:'Minior'
+	id:499
+}
+item { 
+	name:'Minun'
+	id:500
+}
+item { 
+	name:'Misdreavus'
+	id:501
+}
+item { 
+	name:'Mismagius'
+	id:502
+}
+item { 
+	name:'Moltres'
+	id:503
+}
+item { 
+	name:'Monferno'
+	id:504
+}
+item { 
+	name:'Morelull'
+	id:505
+}
+item { 
+	name:'Morgrem'
+	id:506
+}
+item { 
+	name:'Morpeko'
+	id:507
+}
+item { 
+	name:'Mothim'
+	id:508
+}
+item { 
+	name:'MrMime'
+	id:509
+}
+item { 
+	name:'MrRime'
+	id:510
+}
+item { 
+	name:'Mudbray'
+	id:511
+}
+item { 
+	name:'Mudkip'
+	id:512
+}
+item { 
+	name:'Mudsdale'
+	id:513
+}
+item { 
+	name:'Muk'
+	id:514
+}
+item { 
+	name:'Munchlax'
+	id:515
+}
+item { 
+	name:'Munna'
+	id:516
+}
+item { 
+	name:'Murkrow'
+	id:517
+}
+item { 
+	name:'Musharna'
+	id:518
+}
+item { 
+	name:'Naganadel'
+	id:519
+}
+item { 
+	name:'Natu'
+	id:520
+}
+item { 
+	name:'Necrozma'
+	id:521
+}
+item { 
+	name:'Nickit'
+	id:522
+}
+item { 
+	name:'Nidoking'
+	id:523
+}
+item { 
+	name:'Nidoqueen'
+	id:524
+}
+item { 
+	name:'Nidoran'
+	id:525
+}
+item { 
+	name:'Nidorina'
+	id:526
+}
+item { 
+	name:'Nidorino'
+	id:527
+}
+item { 
+	name:'Nihilego'
+	id:528
+}
+item { 
+	name:'Nincada'
+	id:529
+}
+item { 
+	name:'Ninetales'
+	id:530
+}
+item { 
+	name:'Ninjask'
+	id:531
+}
+item { 
+	name:'Noctowl'
+	id:532
+}
+item { 
+	name:'Noibat'
+	id:533
+}
+item { 
+	name:'Noivern'
+	id:534
+}
+item { 
+	name:'Nosepass'
+	id:535
+}
+item { 
+	name:'Numel'
+	id:536
+}
+item { 
+	name:'Nuzleaf'
+	id:537
+}
+item { 
+	name:'Obstagoon'
+	id:538
+}
+item { 
+	name:'Octillery'
+	id:539
+}
+item { 
+	name:'Oddish'
+	id:540
+}
+item { 
+	name:'Omanyte'
+	id:541
+}
+item { 
+	name:'Omastar'
+	id:542
+}
+item { 
+	name:'Onix'
+	id:543
+}
+item { 
+	name:'Oranguru'
+	id:544
+}
+item { 
+	name:'Orbeetle'
+	id:545
+}
+item { 
+	name:'Oricorio'
+	id:546
+}
+item { 
+	name:'Oshawott'
+	id:547
+}
+item { 
+	name:'Pachirisu'
+	id:548
+}
+item { 
+	name:'Palkia'
+	id:549
+}
+item { 
+	name:'Palossand'
+	id:550
+}
+item { 
+	name:'Palpitoad'
+	id:551
+}
+item { 
+	name:'Pancham'
+	id:552
+}
+item { 
+	name:'Pangoro'
+	id:553
+}
+item { 
+	name:'Panpour'
+	id:554
+}
+item { 
+	name:'Pansage'
+	id:555
+}
+item { 
+	name:'Pansear'
+	id:556
+}
+item { 
+	name:'Paras'
+	id:557
+}
+item { 
+	name:'Parasect'
+	id:558
+}
+item { 
+	name:'Passimian'
+	id:559
+}
+item { 
+	name:'Patrat'
+	id:560
+}
+item { 
+	name:'Pawniard'
+	id:561
+}
+item { 
+	name:'Pelipper'
+	id:562
+}
+item { 
+	name:'Perrserker'
+	id:563
+}
+item { 
+	name:'Persian'
+	id:564
+}
+item { 
+	name:'Petilil'
+	id:565
+}
+item { 
+	name:'Phanpy'
+	id:566
+}
+item { 
+	name:'Phantump'
+	id:567
+}
+item { 
+	name:'Pheromosa'
+	id:568
+}
+item { 
+	name:'Phione'
+	id:569
+}
+item { 
+	name:'Pichu'
+	id:570
+}
+item { 
+	name:'Pidgeot'
+	id:571
+}
+item { 
+	name:'Pidgeotto'
+	id:572
+}
+item { 
+	name:'Pidgey'
+	id:573
+}
+item { 
+	name:'Pidove'
+	id:574
+}
+item { 
+	name:'Pignite'
+	id:575
+}
+item { 
+	name:'Pikachu'
+	id:576
+}
+item { 
+	name:'Pikipek'
+	id:577
+}
+item { 
+	name:'Piloswine'
+	id:578
+}
+item { 
+	name:'Pincurchin'
+	id:579
+}
+item { 
+	name:'Pineco'
+	id:580
+}
+item { 
+	name:'Pinsir'
+	id:581
+}
+item { 
+	name:'Piplup'
+	id:582
+}
+item { 
+	name:'Plusle'
+	id:583
+}
+item { 
+	name:'Poipole'
+	id:584
+}
+item { 
+	name:'Politoed'
+	id:585
+}
+item { 
+	name:'Poliwag'
+	id:586
+}
+item { 
+	name:'Poliwhirl'
+	id:587
+}
+item { 
+	name:'Poliwrath'
+	id:588
+}
+item { 
+	name:'Polteageist'
+	id:589
+}
+item { 
+	name:'Ponyta'
+	id:590
+}
+item { 
+	name:'Poochyena'
+	id:591
+}
+item { 
+	name:'Popplio'
+	id:592
+}
+item { 
+	name:'Porygon'
+	id:593
+}
+item { 
+	name:'Porygon2'
+	id:594
+}
+item { 
+	name:'PorygonZ'
+	id:595
+}
+item { 
+	name:'Primarina'
+	id:596
+}
+item { 
+	name:'Primeape'
+	id:597
+}
+item { 
+	name:'Prinplup'
+	id:598
+}
+item { 
+	name:'Probopass'
+	id:599
+}
+item { 
+	name:'Psyduck'
+	id:600
+}
+item { 
+	name:'Pumpkaboo'
+	id:601
+}
+item { 
+	name:'Pupitar'
+	id:602
+}
+item { 
+	name:'Purrloin'
+	id:603
+}
+item { 
+	name:'Purugly'
+	id:604
+}
+item { 
+	name:'Pyroar'
+	id:605
+}
+item { 
+	name:'Pyukumuku'
+	id:606
+}
+item { 
+	name:'Quagsire'
+	id:607
+}
+item { 
+	name:'Quilava'
+	id:608
+}
+item { 
+	name:'Quilladin'
+	id:609
+}
+item { 
+	name:'Qwilfish'
+	id:610
+}
+item { 
+	name:'Raboot'
+	id:611
+}
+item { 
+	name:'Raichu'
+	id:612
+}
+item { 
+	name:'Raikou'
+	id:613
+}
+item { 
+	name:'Ralts'
+	id:614
+}
+item { 
+	name:'Rampardos'
+	id:615
+}
+item { 
+	name:'Rapidash'
+	id:616
+}
+item { 
+	name:'Raticate'
+	id:617
+}
+item { 
+	name:'Rattata'
+	id:618
+}
+item { 
+	name:'Rayquaza'
+	id:619
+}
+item { 
+	name:'Regice'
+	id:620
+}
+item { 
+	name:'Regidrago'
+	id:621
+}
+item { 
+	name:'Regieleki'
+	id:622
+}
+item { 
+	name:'Regigigas'
+	id:623
+}
+item { 
+	name:'Regirock'
+	id:624
+}
+item { 
+	name:'Registeel'
+	id:625
+}
+item { 
+	name:'Relicanth'
+	id:626
+}
+item { 
+	name:'Remoraid'
+	id:627
+}
+item { 
+	name:'Reshiram'
+	id:628
+}
+item { 
+	name:'Reuniclus'
+	id:629
+}
+item { 
+	name:'Rhydon'
+	id:630
+}
+item { 
+	name:'Rhyhorn'
+	id:631
+}
+item { 
+	name:'Rhyperior'
+	id:632
+}
+item { 
+	name:'Ribombee'
+	id:633
+}
+item { 
+	name:'Rillaboom'
+	id:634
+}
+item { 
+	name:'Riolu'
+	id:635
+}
+item { 
+	name:'Rockruff'
+	id:636
+}
+item { 
+	name:'Roggenrola'
+	id:637
+}
+item { 
+	name:'Rolycoly'
+	id:638
+}
+item { 
+	name:'Rookidee'
+	id:639
+}
+item { 
+	name:'Roselia'
+	id:640
+}
+item { 
+	name:'Roserade'
+	id:641
+}
+item { 
+	name:'Rotom'
+	id:642
+}
+item { 
+	name:'Rowlet'
+	id:643
+}
+item { 
+	name:'Rufflet'
+	id:644
+}
+item { 
+	name:'Runerigus'
+	id:645
+}
+item { 
+	name:'Sableye'
+	id:646
+}
+item { 
+	name:'Salamence'
+	id:647
+}
+item { 
+	name:'Salandit'
+	id:648
+}
+item { 
+	name:'Salazzle'
+	id:649
+}
+item { 
+	name:'Samurott'
+	id:650
+}
+item { 
+	name:'Sandaconda'
+	id:651
+}
+item { 
+	name:'Sandile'
+	id:652
+}
+item { 
+	name:'Sandshrew'
+	id:653
+}
+item { 
+	name:'Sandslash'
+	id:654
+}
+item { 
+	name:'Sandygast'
+	id:655
+}
+item { 
+	name:'Sawk'
+	id:656
+}
+item { 
+	name:'Sawsbuck'
+	id:657
+}
+item { 
+	name:'Scatterbug'
+	id:658
+}
+item { 
+	name:'Sceptile'
+	id:659
+}
+item { 
+	name:'Scizor'
+	id:660
+}
+item { 
+	name:'Scolipede'
+	id:661
+}
+item { 
+	name:'Scorbunny'
+	id:662
+}
+item { 
+	name:'Scrafty'
+	id:663
+}
+item { 
+	name:'Scraggy'
+	id:664
+}
+item { 
+	name:'Scyther'
+	id:665
+}
+item { 
+	name:'Seadra'
+	id:666
+}
+item { 
+	name:'Seaking'
+	id:667
+}
+item { 
+	name:'Sealeo'
+	id:668
+}
+item { 
+	name:'Seedot'
+	id:669
+}
+item { 
+	name:'Seel'
+	id:670
+}
+item { 
+	name:'Seismitoad'
+	id:671
+}
+item { 
+	name:'Sentret'
+	id:672
+}
+item { 
+	name:'Serperior'
+	id:673
+}
+item { 
+	name:'Servine'
+	id:674
+}
+item { 
+	name:'Seviper'
+	id:675
+}
+item { 
+	name:'Sewaddle'
+	id:676
+}
+item { 
+	name:'Sharpedo'
+	id:677
+}
+item { 
+	name:'Shaymin'
+	id:678
+}
+item { 
+	name:'Shedinja'
+	id:679
+}
+item { 
+	name:'Shelgon'
+	id:680
+}
+item { 
+	name:'Shellder'
+	id:681
+}
+item { 
+	name:'Shellos'
+	id:682
+}
+item { 
+	name:'Shelmet'
+	id:683
+}
+item { 
+	name:'Shieldon'
+	id:684
+}
+item { 
+	name:'Shiftry'
+	id:685
+}
+item { 
+	name:'Shiinotic'
+	id:686
+}
+item { 
+	name:'Shinx'
+	id:687
+}
+item { 
+	name:'Shroomish'
+	id:688
+}
+item { 
+	name:'Shuckle'
+	id:689
+}
+item { 
+	name:'Shuppet'
+	id:690
+}
+item { 
+	name:'Sigilyph'
+	id:691
+}
+item { 
+	name:'Silcoon'
+	id:692
+}
+item { 
+	name:'Silicobra'
+	id:693
+}
+item { 
+	name:'Silvally'
+	id:694
+}
+item { 
+	name:'Simipour'
+	id:695
+}
+item { 
+	name:'Simisage'
+	id:696
+}
+item { 
+	name:'Simisear'
+	id:697
+}
+item { 
+	name:'Sinistea'
+	id:698
+}
+item { 
+	name:'Sirfetchd'
+	id:699
+}
+item { 
+	name:'Sizzlipede'
+	id:700
+}
+item { 
+	name:'Skarmory'
+	id:701
+}
+item { 
+	name:'Skiddo'
+	id:702
+}
+item { 
+	name:'Skiploom'
+	id:703
+}
+item { 
+	name:'Skitty'
+	id:704
+}
+item { 
+	name:'Skorupi'
+	id:705
+}
+item { 
+	name:'Skrelp'
+	id:706
+}
+item { 
+	name:'Skuntank'
+	id:707
+}
+item { 
+	name:'Skwovet'
+	id:708
+}
+item { 
+	name:'Slaking'
+	id:709
+}
+item { 
+	name:'Slakoth'
+	id:710
+}
+item { 
+	name:'Sliggoo'
+	id:711
+}
+item { 
+	name:'Slowbro'
+	id:712
+}
+item { 
+	name:'Slowking'
+	id:713
+}
+item { 
+	name:'Slowpoke'
+	id:714
+}
+item { 
+	name:'Slugma'
+	id:715
+}
+item { 
+	name:'Slurpuff'
+	id:716
+}
+item { 
+	name:'Smeargle'
+	id:717
+}
+item { 
+	name:'Smoochum'
+	id:718
+}
+item { 
+	name:'Sneasel'
+	id:719
+}
+item { 
+	name:'Snivy'
+	id:720
+}
+item { 
+	name:'Snom'
+	id:721
+}
+item { 
+	name:'Snorlax'
+	id:722
+}
+item { 
+	name:'Snorunt'
+	id:723
+}
+item { 
+	name:'Snover'
+	id:724
+}
+item { 
+	name:'Snubbull'
+	id:725
+}
+item { 
+	name:'Sobble'
+	id:726
+}
+item { 
+	name:'Solgaleo'
+	id:727
+}
+item { 
+	name:'Solosis'
+	id:728
+}
+item { 
+	name:'Solrock'
+	id:729
+}
+item { 
+	name:'Spearow'
+	id:730
+}
+item { 
+	name:'Spectrier'
+	id:731
+}
+item { 
+	name:'Spewpa'
+	id:732
+}
+item { 
+	name:'Spheal'
+	id:733
+}
+item { 
+	name:'Spinarak'
+	id:734
+}
+item { 
+	name:'Spinda'
+	id:735
+}
+item { 
+	name:'Spiritomb'
+	id:736
+}
+item { 
+	name:'Spoink'
+	id:737
+}
+item { 
+	name:'Spritzee'
+	id:738
+}
+item { 
+	name:'Squirtle'
+	id:739
+}
+item { 
+	name:'Stakataka'
+	id:740
+}
+item { 
+	name:'Stantler'
+	id:741
+}
+item { 
+	name:'Staraptor'
+	id:742
+}
+item { 
+	name:'Staravia'
+	id:743
+}
+item { 
+	name:'Starly'
+	id:744
+}
+item { 
+	name:'Starmie'
+	id:745
+}
+item { 
+	name:'Staryu'
+	id:746
+}
+item { 
+	name:'Steelix'
+	id:747
+}
+item { 
+	name:'Steenee'
+	id:748
+}
+item { 
+	name:'Stonjourner'
+	id:749
+}
+item { 
+	name:'Stoutland'
+	id:750
+}
+item { 
+	name:'Stufful'
+	id:751
+}
+item { 
+	name:'Stunfisk'
+	id:752
+}
+item { 
+	name:'Stunky'
+	id:753
+}
+item { 
+	name:'Sudowoodo'
+	id:754
+}
+item { 
+	name:'Suicune'
+	id:755
+}
+item { 
+	name:'Sunflora'
+	id:756
+}
+item { 
+	name:'Sunkern'
+	id:757
+}
+item { 
+	name:'Surskit'
+	id:758
+}
+item { 
+	name:'Swablu'
+	id:759
+}
+item { 
+	name:'Swadloon'
+	id:760
+}
+item { 
+	name:'Swalot'
+	id:761
+}
+item { 
+	name:'Swampert'
+	id:762
+}
+item { 
+	name:'Swanna'
+	id:763
+}
+item { 
+	name:'Swellow'
+	id:764
+}
+item { 
+	name:'Swinub'
+	id:765
+}
+item { 
+	name:'Swirlix'
+	id:766
+}
+item { 
+	name:'Swoobat'
+	id:767
+}
+item { 
+	name:'Sylveon'
+	id:768
+}
+item { 
+	name:'Taillow'
+	id:769
+}
+item { 
+	name:'Talonflame'
+	id:770
+}
+item { 
+	name:'Tangela'
+	id:771
+}
+item { 
+	name:'Tangrowth'
+	id:772
+}
+item { 
+	name:'TapuBulu'
+	id:773
+}
+item { 
+	name:'TapuFini'
+	id:774
+}
+item { 
+	name:'TapuKoko'
+	id:775
+}
+item { 
+	name:'TapuLele'
+	id:776
+}
+item { 
+	name:'Tauros'
+	id:777
+}
+item { 
+	name:'Teddiursa'
+	id:778
+}
+item { 
+	name:'Tentacool'
+	id:779
+}
+item { 
+	name:'Tentacruel'
+	id:780
+}
+item { 
+	name:'Tepig'
+	id:781
+}
+item { 
+	name:'Terrakion'
+	id:782
+}
+item { 
+	name:'Thievul'
+	id:783
+}
+item { 
+	name:'Throh'
+	id:784
+}
+item { 
+	name:'Thundurus'
+	id:785
+}
+item { 
+	name:'Thwackey'
+	id:786
+}
+item { 
+	name:'Timburr'
+	id:787
+}
+item { 
+	name:'Tirtouga'
+	id:788
+}
+item { 
+	name:'Togedemaru'
+	id:789
+}
+item { 
+	name:'Togekiss'
+	id:790
+}
+item { 
+	name:'Togepi'
+	id:791
+}
+item { 
+	name:'Togetic'
+	id:792
+}
+item { 
+	name:'Torchic'
+	id:793
+}
+item { 
+	name:'Torkoal'
+	id:794
+}
+item { 
+	name:'Tornadus'
+	id:795
+}
+item { 
+	name:'Torracat'
+	id:796
+}
+item { 
+	name:'Torterra'
+	id:797
+}
+item { 
+	name:'Totodile'
+	id:798
+}
+item { 
+	name:'Toucannon'
+	id:799
+}
+item { 
+	name:'Toxapex'
+	id:800
+}
+item { 
+	name:'Toxel'
+	id:801
+}
+item { 
+	name:'Toxicroak'
+	id:802
+}
+item { 
+	name:'Toxtricity'
+	id:803
+}
+item { 
+	name:'Tranquill'
+	id:804
+}
+item { 
+	name:'Trapinch'
+	id:805
+}
+item { 
+	name:'Treecko'
+	id:806
+}
+item { 
+	name:'Trevenant'
+	id:807
+}
+item { 
+	name:'Tropius'
+	id:808
+}
+item { 
+	name:'Trubbish'
+	id:809
+}
+item { 
+	name:'Trumbeak'
+	id:810
+}
+item { 
+	name:'Tsareena'
+	id:811
+}
+item { 
+	name:'Turtonator'
+	id:812
+}
+item { 
+	name:'Turtwig'
+	id:813
+}
+item { 
+	name:'Tympole'
+	id:814
+}
+item { 
+	name:'Tynamo'
+	id:815
+}
+item { 
+	name:'TypeNull'
+	id:816
+}
+item { 
+	name:'Typhlosion'
+	id:817
+}
+item { 
+	name:'Tyranitar'
+	id:818
+}
+item { 
+	name:'Tyrantrum'
+	id:819
+}
+item { 
+	name:'Tyrogue'
+	id:820
+}
+item { 
+	name:'Tyrunt'
+	id:821
+}
+item { 
+	name:'Umbreon'
+	id:822
+}
+item { 
+	name:'Unfezant'
+	id:823
+}
+item { 
+	name:'Unown'
+	id:824
+}
+item { 
+	name:'Ursaring'
+	id:825
+}
+item { 
+	name:'Urshifu'
+	id:826
+}
+item { 
+	name:'Uxie'
+	id:827
+}
+item { 
+	name:'Vanillish'
+	id:828
+}
+item { 
+	name:'Vanillite'
+	id:829
+}
+item { 
+	name:'Vanilluxe'
+	id:830
+}
+item { 
+	name:'Vaporeon'
+	id:831
+}
+item { 
+	name:'Venipede'
+	id:832
+}
+item { 
+	name:'Venomoth'
+	id:833
+}
+item { 
+	name:'Venonat'
+	id:834
+}
+item { 
+	name:'Venusaur'
+	id:835
+}
+item { 
+	name:'Vespiquen'
+	id:836
+}
+item { 
+	name:'Vibrava'
+	id:837
+}
+item { 
+	name:'Victini'
+	id:838
+}
+item { 
+	name:'Victreebel'
+	id:839
+}
+item { 
+	name:'Vigoroth'
+	id:840
+}
+item { 
+	name:'Vikavolt'
+	id:841
+}
+item { 
+	name:'Vileplume'
+	id:842
+}
+item { 
+	name:'Virizion'
+	id:843
+}
+item { 
+	name:'Vivillon'
+	id:844
+}
+item { 
+	name:'Volbeat'
+	id:845
+}
+item { 
+	name:'Volcanion'
+	id:846
+}
+item { 
+	name:'Volcarona'
+	id:847
+}
+item { 
+	name:'Voltorb'
+	id:848
+}
+item { 
+	name:'Vullaby'
+	id:849
+}
+item { 
+	name:'Vulpix'
+	id:850
+}
+item { 
+	name:'Wailmer'
+	id:851
+}
+item { 
+	name:'Wailord'
+	id:852
+}
+item { 
+	name:'Walrein'
+	id:853
+}
+item { 
+	name:'Wartortle'
+	id:854
+}
+item { 
+	name:'Watchog'
+	id:855
+}
+item { 
+	name:'Weavile'
+	id:856
+}
+item { 
+	name:'Weedle'
+	id:857
+}
+item { 
+	name:'Weepinbell'
+	id:858
+}
+item { 
+	name:'Weezing'
+	id:859
+}
+item { 
+	name:'Whimsicott'
+	id:860
+}
+item { 
+	name:'Whirlipede'
+	id:861
+}
+item { 
+	name:'Whiscash'
+	id:862
+}
+item { 
+	name:'Whismur'
+	id:863
+}
+item { 
+	name:'Wigglytuff'
+	id:864
+}
+item { 
+	name:'Wimpod'
+	id:865
+}
+item { 
+	name:'Wingull'
+	id:866
+}
+item { 
+	name:'Wishiwashi'
+	id:867
+}
+item { 
+	name:'Wobbuffet'
+	id:868
+}
+item { 
+	name:'Woobat'
+	id:869
+}
+item { 
+	name:'Wooloo'
+	id:870
+}
+item { 
+	name:'Wooper'
+	id:871
+}
+item { 
+	name:'Wormadam'
+	id:872
+}
+item { 
+	name:'Wurmple'
+	id:873
+}
+item { 
+	name:'Wynaut'
+	id:874
+}
+item { 
+	name:'Xatu'
+	id:875
+}
+item { 
+	name:'Xerneas'
+	id:876
+}
+item { 
+	name:'Xurkitree'
+	id:877
+}
+item { 
+	name:'Yamask'
+	id:878
+}
+item { 
+	name:'Yamper'
+	id:879
+}
+item { 
+	name:'Yanma'
+	id:880
+}
+item { 
+	name:'Yanmega'
+	id:881
+}
+item { 
+	name:'Yungoos'
+	id:882
+}
+item { 
+	name:'Yveltal'
+	id:883
+}
+item { 
+	name:'Zacian'
+	id:884
+}
+item { 
+	name:'Zamazenta'
+	id:885
+}
+item { 
+	name:'Zangoose'
+	id:886
+}
+item { 
+	name:'Zapdos'
+	id:887
+}
+item { 
+	name:'Zarude'
+	id:888
+}
+item { 
+	name:'Zebstrika'
+	id:889
+}
+item { 
+	name:'Zekrom'
+	id:890
+}
+item { 
+	name:'Zeraora'
+	id:891
+}
+item { 
+	name:'Zigzagoon'
+	id:892
+}
+item { 
+	name:'Zoroark'
+	id:893
+}
+item { 
+	name:'Zorua'
+	id:894
+}
+item { 
+	name:'Zubat'
+	id:895
+}
+item { 
+	name:'Zweilous'
+	id:896
+}
+item { 
+	name:'Zygarde'
+	id:897
+}
